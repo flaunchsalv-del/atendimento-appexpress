@@ -1,0 +1,26 @@
+SITE COMERCIAL HELINANDO LTDA / PADARIA TEMPÃO
+
+Conteúdo:
+- index.html: página principal
+- sobre.html: página institucional
+- privacidade.html: política de privacidade
+- termos.html: termos de uso
+- styles.css: estilos personalizados
+- assets/: imagens fornecidas para o website
+
+Como utilizar:
+1. Extraia todos os ficheiros mantendo a estrutura de pastas.
+2. Abra index.html no navegador para pré-visualizar.
+3. Para publicar, envie todos os ficheiros e a pasta assets para a raiz do alojamento/domínio.
+
+Tecnologias:
+- HTML5
+- CSS3
+- Bootstrap 5.3.3 (CDN)
+- Bootstrap Icons (CDN)
+
+Importante antes de publicar:
+- Confirme os dados cadastrais e a forma correcta de apresentar o porte/ natureza jurídica da empresa. Os dados fornecidos mencionam simultaneamente MEI e LTDA, informação que deve ser validada.
+- Confirme se as imagens ilustrativas podem ser utilizadas comercialmente e substitua-as por fotografias reais da empresa, se possível.
+- A política de privacidade deve ser revista caso sejam adicionados Google Analytics, Google Ads/remarketing, pixels, formulários, cookies ou outros serviços de terceiros.
+- As páginas legais são um modelo inicial informativo e devem ser revistas por profissional habilitado conforme a operação efectiva da empresa.
